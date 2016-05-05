@@ -1,0 +1,4 @@
+stat structs 
+diren structure 
+pswd structure and all related functions 
+write a shell script
